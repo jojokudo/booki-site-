@@ -14,7 +14,7 @@ Nous avions pour objectif d'intégrer la maquette d'un site de planification de 
 
 ## À noter 
 
-- Nous avons réalisé une maquette mobile et une maquette tablette.
+- Nous avons réalisé une maquette ordinateur et une maquette tablette.
 - Les liens du site ne sont pas activés.
 - La barre de recherche n'est pas activée.
 - Les cartes "hébergements" et "activités" sont inspirées des cartes "populaires" qui étaient déja inséreés et stylisées.
